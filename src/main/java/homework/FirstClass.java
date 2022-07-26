@@ -10,6 +10,5 @@ public class FirstClass {
         boolean isoficialeucountry=true;
         char currency='€';
         System.out.println("Nav otras tādas zemes kā Latvija. Pašas skaistākās lauku sētas ar kupliem ozoliem, smaržojošām liepām un vējā maigi šalcošiem bērziem vasarā sagaida mūs. Ziemā būtība jau nemainās, tikai koki ir ar kailiem zariem, bet tikpat labsirdīgi kā vienmēr.");
-
     }
 }
